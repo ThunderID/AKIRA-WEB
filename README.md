@@ -1,5 +1,6 @@
 #AKIRA WEB
 
 #INSTALLATION
-1. Import akira.sql di database
-2. All good!
+1. Extract file zip. (ganti nama folder menjadi : Akira)
+2. Import wordpress.sql di database (nama database : akira)
+3. All good!
